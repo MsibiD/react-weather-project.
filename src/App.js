@@ -29,7 +29,7 @@ export default function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://venerable-scone-7fd6fb.netlify.app/"
+            href="https://bright-gumption-568e54.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
